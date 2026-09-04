@@ -1,0 +1,18 @@
+{
+  "name": "elo3-promo",
+  "version": "1.0.0",
+  "description": "Site ELO3 Promo com API Mercado Livre Dinâmica",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "node-fetch": "^2.7.0"
+  },
+  "keywords": ["elo3", "promo", "afiliados", "mercado-livre"],
+  "author": "ELO3 Promo",
+  "license": "MIT"
+}
