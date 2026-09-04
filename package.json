@@ -1,8 +1,0 @@
-{
-  "name": "elo3promo",
-  "version": "1.0.0",
-  "description": "ELO3 Promo — Busca automática Mercado Livre",
-  "dependencies": {
-    "node-fetch": "^2.6.7"
-  }
-}
